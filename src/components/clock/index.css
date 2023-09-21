@@ -1,0 +1,21 @@
+.clock-container {
+  margin-top: 20px;
+  background-color: rgb(194, 237, 231);
+  height: 35vh;
+  width: 35vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border-radius: 10px;
+}
+.heading {
+  color: rgb(19, 128, 223);
+  font-family: sans-serif;
+}
+p {
+  color: rgb(250, 140, 224);
+  font-family: sans-serif;
+  font-size: 35px;
+  font-weight: 600;
+}
